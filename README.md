@@ -1,4 +1,4 @@
-# Churn-Prediction-Analysis
+# Customer-Churn-Prediction-Analysis
 TELECOM CUSTOMER RETENTION  INSIGHTS AND STRATEGY
 Predicted which customers are likely to churn based on behavior, service
 usage, and demographics.
