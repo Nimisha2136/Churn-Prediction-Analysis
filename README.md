@@ -2,8 +2,8 @@
 ---
 # 📊 Telecom Customer Retention Insights & Strategy
 ## 📌 Project Overview
-Customer churn is a major challenge in the telecom industry. This project focuses on **predicting customer churn** using behavioral patterns, service usage, and demographic data, and translating insights into **actionable retention strategies**.
-The goal is to help businesses **identify at-risk customers early** and design data-driven interventions to improve customer loyalty and revenue stability.
+Customer churn is a major challenge in the telecom industry. This project focuses on **predicting customer churn** using behavioral patterns, service usage, and demographic data, and translating insights into actionable retention strategies.
+The goal is to help businesses identify at-risk customers early** and design data-driven interventions to improve customer loyalty and revenue stability.
 ---
 ## 🎯 Objectives
 * Predict customers likely to churn
