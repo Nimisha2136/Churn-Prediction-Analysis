@@ -60,9 +60,3 @@ The goal is to help businesses **identify at-risk customers early** and design d
 This project demonstrates how **data analytics and machine learning** can be used not just to predict churn, but to **drive meaningful business decisions**. The insights generated can help telecom companies proactively retain customers and optimize their retention strategies.
 ---
 
-
-* Add a **Tech Stack section (Python, Pandas, SQL, ML models)**
-* Optimize it for **recruiter-friendly GitHub portfolios**
-* Shorten it for a **1-minute skim README**
-
-Just tell me 👍
